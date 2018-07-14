@@ -1,4 +1,4 @@
-# SnowManMusic
+# snowmusic
 
 > ### 一个基于vue，vuex,vue-cli的仿照QQ音乐的音乐播放器app ###
 
