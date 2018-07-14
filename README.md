@@ -16,6 +16,6 @@
 
 > npm run build
 
-###启动打包后的目录文件
+### 启动打包后的目录文件
 
 > npm run app / node prod.srever.js
